@@ -5,5 +5,6 @@ export const styles = StyleSheet.create({
         marginTop: 40,
         textAlign: 'center',
         fontSize: 50,
+        fontWeight: '900',
     },
 });
